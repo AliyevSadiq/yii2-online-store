@@ -1,0 +1,21 @@
+IP ADDRESS:127.0.0.1  USER:admin
+ CURRENT DATE:08.10.2020 14:32:00
+HTTP_REFERER:http://yii2-lesson-2/admin/category/update?id=18
+HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+REQUEST_URI:/admin/category/update?id=18
+POST VALUES:a:2:{s:5:"_csrf";s:88:"VuXm5lxM-qP4CDwLgm6Nan2FQhqaU9TDKyFqIQQTFds_p96lbhqv-ZFPbGH1O7gAOuANbK0KmJNkVl5QN31e6Q==";s:8:"Category";a:4:{s:5:"title";s:11:"asdasdasdas";s:9:"parent_id";s:1:"0";s:11:"description";s:5:"dasda";s:8:"keywords";s:4:"sdas";}}
+a:1:{s:2:"id";s:2:"18";}-------------------------------------------------
+IP ADDRESS:127.0.0.1  USER:admin
+ CURRENT DATE:08.10.2020 14:32:21
+HTTP_REFERER:http://yii2-lesson-2/admin/category/create
+HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+REQUEST_URI:/admin/category/create
+POST VALUES:a:2:{s:5:"_csrf";s:88:"amkknb6VeyrEjO6SK-hPvu7H3Y8DKxT9hXYEXMxiezIDKxzejMMucK3LvvhcvXrUqaKS-TRyWK3KATAt_wwwAA==";s:8:"Category";a:4:{s:5:"title";s:3:"ASD";s:9:"parent_id";s:1:"0";s:11:"description";s:0:"";s:8:"keywords";s:0:"";}}
+a:0:{}-------------------------------------------------
+IP ADDRESS:127.0.0.1  USER:admin
+ CURRENT DATE:08.10.2020 14:33:05
+HTTP_REFERER:http://yii2-lesson-2/admin/category/view?id=19
+HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+REQUEST_URI:/admin/category/delete?id=19
+POST VALUES:a:1:{s:5:"_csrf";s:88:"at3NHdEatpgXaCNa7l3AwKq8tCAHzkxDHI17Ffg7zN8Dn_Ve40zjwn4vczCZCPWq7dn7VjCXABNT-k9ky1WH7Q==";}
+a:1:{s:2:"id";s:2:"19";}-------------------------------------------------
